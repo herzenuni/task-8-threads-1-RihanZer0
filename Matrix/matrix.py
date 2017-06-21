@@ -1,7 +1,7 @@
 import threading
 
-matrixA = [[1, 2], [3, 4]]
-matrixB = [[5, 6], [7, 8]]
+matrixA = [[7, 8], [7, 8]]
+matrixB = [[9, 8], [8, 7]]
 
 def calculate_element(row, col):
     result = 0
